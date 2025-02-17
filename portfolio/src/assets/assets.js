@@ -64,7 +64,7 @@ export const otherTechnology = [tailwind_icon, json_icon, api_icon];
 //   website_link: "",
 // },
 
-export const BACKEND_URL = "http://localhost:3000";
+export const BACKEND_URL = "https://fullstack-portfolio-jiwm.onrender.com";
 
 export const tools = {
   react_img,
