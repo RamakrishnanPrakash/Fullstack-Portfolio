@@ -122,4 +122,4 @@ export const myProjects = [
       "https://github.com/RamakrishnanPrakash/Wedding-Venue-Booking-System",
   },
 ];
-export const BACKEND_URL = "http://localhost:3000";
+export const BACKEND_URL = "https://fullstack-portfolio-jiwm.onrender.com";
