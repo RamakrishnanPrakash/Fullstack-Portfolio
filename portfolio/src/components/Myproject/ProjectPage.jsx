@@ -189,7 +189,7 @@ export const ProjectPage = ({ isDarkMode, setIsDarkMode, project }) => {
           </Link>
         </div>
 
-        <div className="flex items-center justify-center gap-2 flex-wrap mt-3">
+        <div className="flex items-center justify-center overflow-hidden gap-2 flex-wrap mt-3">
           <img
             src={assets.video1_gif}
             className="w-[370px] md:w-[500px] mb-10   drop-shadow-[2px_2px_18px_rgb(0,0,0)] rounded-lg    dark:drop-shadow-[2px_2px_18px_rgb(255,255,255)]"
